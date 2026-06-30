@@ -1,0 +1,34 @@
+.ingnit{
+    background-color: rgb(164, 198, 227);
+    text-align: justify;
+    border: 10px solid rgb(74, 58, 58);
+    border-radius: 10px;
+    margin: 10px 20px 30px 40px;
+    padding: 10px;
+    box-shadow: 10px 10px 20px rgb(54, 107, 153);
+    font-family: 'Times New Roman', Times, serif;
+}
+.ingnity{
+       /*display: none;*/
+       /*visibility: hidden;*/
+
+       /*
+        display none means oi part ta delete kore dey
+        visibility none mane oi part ta just show kore na
+       */
+}
+
+.unnix{
+      border: 2px solid rgb(50, 26, 26);
+      /*height: 100px;
+      display: block;*/
+      /* inline element er modde kuno border a height kaj kore na but dislay block korle abr kaj korbe 
+      
+      ***jodi in line a rakte hoy "display: inlineblock"
+      use korte hobe.
+      */
+      margin: 20px;
+      display: inline-block;
+
+      /* inline block a margin 4 ta side a kaj kore na . kaj korar jonno just display in line block use kora hoy */
+}

@@ -1,0 +1,78 @@
+a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar{
+
+    background: rgba(255,255,255,.12);
+
+    backdrop-filter: blur(35px);
+
+    -webkit-backdrop-filter: blur(35px);
+
+    border:1px solid rgba(255,255,255,.25);
+
+    border-radius:25px;
+
+    box-shadow:
+    0 8px 32px rgba(0,0,0,.20),
+    inset 0 1px 0 rgba(255,255,255,.5);
+
+    padding:20px 30px;
+}
+
+body{
+    background: linear-gradient(
+        135deg,
+        #4facfe,
+        #00f2fe,
+        #43e97b,
+        #38f9d7
+    );
+
+    min-height:100vh;
+}
+.article{
+    width:700px;
+    margin-left: 30px;
+}
+
+.article img{
+    width:700px;
+    border-radius:15px;
+    margin-top: 10px;
+}
+
+.article h3{
+    margin-top:30px;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.article p{
+     background: rgba(255,255,255,.12);
+
+    backdrop-filter: blur(35px);
+
+    -webkit-backdrop-filter: blur(35px);
+
+    border:1px solid rgba(255,255,255,.25);
+
+    border-radius:25px;
+
+    box-shadow:
+    0 8px 32px rgba(0,0,0,.20),
+    inset 0 1px 0 rgba(255,255,255,.5);
+
+    padding:20px 30px;
+}
+
+.hexxa img{
+  
+    width: 345px;
+    border-radius:15px;
+    margin-top: 10px;
+
+}

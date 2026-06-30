@@ -1,0 +1,35 @@
+.hexa{
+   
+    /*background-image: url('download.png');
+    height: 500px;*/
+    background-image: url('../image/developer/download.png');
+    height: 1000px;
+    /*background-repeat: no-repeat;*/
+    /*background-repeat: repeat-x;*/
+    /*background-repeat: repeat-y;*/
+    /*background-size: cover;*/
+    /*background-size: contain;*/
+    /*background-size: 200px;*/
+
+
+}
+
+#hexa11{
+
+     background-color: rgb(147, 125, 91);
+     text-align: center;
+     text-decoration: underline;
+     text-transform: uppercase;
+}
+
+#hexa12{
+      
+    border: 5px solid rgb(104, 119, 134);
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px rgb(99, 83, 60);
+    border-radius: 10px 40px 10px;
+
+
+}
